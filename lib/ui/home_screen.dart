@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
                           borderSide:
                               BorderSide(color: Colors.black, width: 1.0)),
                       hintText: 'username',
-                      labelText: 'your username git',
+                      labelText: 'git username',
                       labelStyle: TextStyle(color: Colors.black)),
                 ),
                 Container(height: 10.0),
